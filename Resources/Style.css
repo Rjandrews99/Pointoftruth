@@ -469,4 +469,11 @@ input[type=text]{
     padding: 10px;
     margin: 10px;
     border: solid black 2px;
+    caret-color: #971b2f;
+    border-radius: 5px;
+}
+
+input[type=radio]{
+    margin: 10px;
+
 }
